@@ -1,0 +1,36 @@
+{
+    "name": "bootstrapvideoplayer",
+    "title": "Bootstrap video player - jQuery plugin",
+    "description": "A customizable HTML5 video player plugin for jQuery based on bootstrap UI",
+    "keywords": [
+        "html5",
+        "video",
+		"css3",
+		"bootstrap"
+    ],
+    "version": "1.0.0",
+    "author": {
+        "name": "HTML5 Ninja",
+        "url": "http://html5-ninja.com/"
+    },
+    "maintainers": [
+        {
+            "name": "Zied Hosni",
+            "email": "zied.hosni.mail@gmail.com",
+            "url": "http://html5-ninja.com/"
+        }
+    ],
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "http://opensource.org/licenses/MIT"
+        }
+    ],
+    "bugs": "https://github.com/html5-ninja/Bootstrap-video-player-jQuery-plugin/issues",
+    "homepage": "http://html5-ninja.com/item/Bootstrap-video-player-jQuery-plugin/5",
+    "docs": "http://html5-ninja.com/preview/index/5",
+    "download": "https://github.com/html5-ninja/Bootstrap-video-player-jQuery-plugin",
+    "dependencies": {
+        "jquery": ">=1.7"
+    }
+}
